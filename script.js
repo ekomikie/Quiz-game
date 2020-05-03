@@ -42,7 +42,7 @@ const questions = [
         answer:1
     },
     {
-        q: 'How do create a function in JavaScript?',
+        q: 'How do we create a function in JavaScript?',
         options:['function = myFunction()', 'function: myFunction', 'create - myFunction()','function myFunction()'],
         answer:3
     }
